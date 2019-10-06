@@ -29,8 +29,3 @@
 - [Book Testing Business Ideas & Courses (recommendation from Isaac)](https://www.strategyzer.com/).
 
 
-🤖 Algorithms & Interviews
----------------------------
-
-- [Solve Google, Facebook, and Microsoft interview questions](https://www.coderbyte.com/).
-
