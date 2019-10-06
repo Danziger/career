@@ -26,7 +26,7 @@
 🏯 Enterpreneuship
 -------------------
 
-- [Book Testing Business Ideas (Isaac)](https://www.strategyzer.com/).
+- [Book Testing Business Ideas & Courses (recommendation from Isaac)](https://www.strategyzer.com/).
 
 
 🤖 Algorithms & Interviews
