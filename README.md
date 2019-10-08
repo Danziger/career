@@ -58,7 +58,8 @@
 
 - https://www.wayra.es/
 
-- 
+- https://www.accio.gencat.cat/ca/serveis/innovacio/startups-i-innovacio-disruptiva/startup-capital/
+
 
 TODO: Compare what they offer (funding, training, space...), model (open, venture builder...), pros & cons, best fit for... Something like this: https://www.venionaire.com/european-accelerators-2017/
 
