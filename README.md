@@ -12,6 +12,10 @@
 
 - [The Webby Awards](https://www.webbyawards.com/).
 
+- [CSS Winner](https://www.csswinner.com/).
+
+- [One Page Love](https://onepagelove.com/).
+
 
 💵 Venture Capital & Entrepreneurship Programs
 -----------------------------------------------
