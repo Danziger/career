@@ -6,6 +6,12 @@
 
 - [The FWA](https://thefwa.com/).
 
+- [Awwwards](https://www.awwwards.com/).
+
+- [CSS Design Awards](https://www.cssdesignawards.com/).
+
+- [The Webby Awards](https://www.webbyawards.com/).
+
 
 💵 Venture Capital & Entrepreneurship Programs
 -----------------------------------------------
