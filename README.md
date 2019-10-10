@@ -34,6 +34,8 @@
 
 - [MassChallenge](https://masschallenge.org/programs-switzerland/)
 
+- [Target Global](https://www.targetglobal.vc/) - See [Target Global, accionista de Badi y TravelPerk, se instala en Barcelona](http://rsocial.expansionpro.orbyt.es/epaper/xml_epaper/Expansi%C3%B3n/25_09_2019/pla_3636_Catalunya/xml_arts/art_17833317.xml).
+
 - https://www.openfuture.org/
 
 - https://www.startupbootcamp.org/
