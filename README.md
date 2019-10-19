@@ -16,6 +16,12 @@
 
 - [One Page Love](https://onepagelove.com/).
 
+- [Digital Communication Awards](https://www.digital-awards.eu/).
+
+- [Golden Web Awards](https://goldenwebawards.com/).
+
+- [European Design Awards](https://europeandesign.org/).
+
 
 💵 Venture Capital & Entrepreneurship Programs
 -----------------------------------------------
