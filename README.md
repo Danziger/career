@@ -4,23 +4,25 @@
 🏆 Awards
 ----------
 
-- [The FWA](https://thefwa.com/).
-
 - [Awwwards](https://www.awwwards.com/).
 
-- [CSS Design Awards](https://www.cssdesignawards.com/).
+- [The FWA](https://thefwa.com/).
 
 - [The Webby Awards](https://www.webbyawards.com/).
 
-- [CSS Winner](https://www.csswinner.com/).
-
-- [One Page Love](https://onepagelove.com/).
-
-- [Digital Communication Awards](https://www.digital-awards.eu/).
+- [European Design Awards](https://europeandesign.org/).
 
 - [Golden Web Awards](https://goldenwebawards.com/).
 
-- [European Design Awards](https://europeandesign.org/).
+- [One Page Love](https://onepagelove.com/).
+
+- [CSS Design Awards](https://www.cssdesignawards.com/).
+
+- [CSS Winner](https://www.csswinner.com/).
+
+- [Digital Communication Awards](https://www.digital-awards.eu/).
+
+
 
 
 💵 Venture Capital & Entrepreneurship Programs
