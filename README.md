@@ -91,6 +91,8 @@ TODO: Compare what they offer (funding, training, space...), model (open, ventur
 
 - [CTO Adacemy](https://cto.academy/).
 
+- [ThePowerMBA](https://thepowermba.com/).
+
 
 🏯 Enterpreneuship
 -------------------
