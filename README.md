@@ -72,6 +72,8 @@
 
 - https://www.inmotionventures.com/portfolio/
 
+- https://gust.com/
+
 
 TODO: Compare what they offer (funding, training, space...), model (open, venture builder...), pros & cons, best fit for... Something like this: https://www.venionaire.com/european-accelerators-2017/
 
